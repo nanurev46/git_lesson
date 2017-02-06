@@ -14,3 +14,7 @@ p{
   font-style: italic;
   color: #999;
 }
+
+header, nav, section, article, aside, footer{
+	display: block;
+}
